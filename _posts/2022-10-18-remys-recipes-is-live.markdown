@@ -1,12 +1,7 @@
 ---
 layout: post
 title: "Remy's Recipes is Live!"
-date: 2022-10-18 20:16:33 -0700
-categories: remysrecipes
+date: 2022-10-18 13:16:33 -0700
 ---
 
-# Welcome
-
-**Hellow world**, this is my first blog post on Remy's Recipes.
-
-Stay tuned for site updates and my first recipe!
+**Hello world**, this is my first blog post on my new website, Remy's Recipes. This is where I'll be posting my recipes, so stay tuned for my first recipe!
